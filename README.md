@@ -9,6 +9,8 @@ Below is a sample code snippet to demonstrate the usage of this library.
 
 /// This is a simple traffic light implementation with state machine.
 
+#include <state_machine.hpp>
+
 /// Shared store across all the state.
 class Store {
 public:
